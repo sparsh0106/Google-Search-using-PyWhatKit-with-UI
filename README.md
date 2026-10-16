@@ -33,4 +33,4 @@ A lightweight desktop GUI application built with **Python**, **Tkinter**, and **
 
 ## 👤 Author
 
-**Sparsh Agarwal** — [GitHub](https://github.com/sparsh0106)
+**Sparsh Agarwal** — [GitHub](https://github.com/sparsh0106) · [LinkedIn](https://www.linkedin.com/in/sparsh-agarwal-4b443b304/)
